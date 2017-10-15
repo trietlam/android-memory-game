@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MemoryCardGame</string>
+    <string name="yourscore">Your Score</string>
+    <string name="highscore">High Score</string>
+    <string name="username">User Name</string>
+    <string name="dialog_enter_username">Wellcome to Hall Of Fame! \nPlease enter your name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="hall_of_fame">HALL OF FAME - TOP 10</string>
+</resources>
